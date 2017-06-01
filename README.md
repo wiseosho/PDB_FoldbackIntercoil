@@ -9,10 +9,10 @@ To construct the coordinate information of Foldback Intercoil motif, the suggest
 ![alt text](fbi-process.png?raw=true "Reconstruction process of FoldbackIntercoil DNA Motif.")
 
 
-#####_[1]	G. Biffi, D. Tannahill, J. McCafferty, and S. Balasubramanian, “Quantitative Visualization of DNA G-quadruplex Structures in Human Cells,” Nat. Chem., vol. 5, no. 3, pp. 182–186, Mar. 2013._
-#####_[2]	X. Wang, X. Zhang, C. Mao, and N. C. Seeman, “Double-stranded DNA homology produces a physical signature,” Proc. Natl. Acad. Sci., vol. 107, no. 28, pp. 12547–12552, Jul. 2010._
-#####_[3]	B. D. Kim, “Four-stranded DNA: an intermediate of homologous recombination and transposition,” Korean J Breed, no. 17, pp. 453–466, 1985._
-#####_[4]	P. A. W. Edwards, “A sequence-independent, four-stranded, double Watson-Crick DNA helix that could solve the unwinding problem of double helices,” J. Theor. Biol., vol. 70, no. 3, pp. 323–334, 6 1978._
-#####_[5]	S. McGavin, “Models of specifically paired like (homologous) nucleic acid structures,” J. Mol. Biol., vol. 55, no. 2, pp. 293–298, 28 1971._
+##### _[1]	G. Biffi, D. Tannahill, J. McCafferty, and S. Balasubramanian, “Quantitative Visualization of DNA G-quadruplex Structures in Human Cells,” Nat. Chem., vol. 5, no. 3, pp. 182–186, Mar. 2013._
+##### _[2]	X. Wang, X. Zhang, C. Mao, and N. C. Seeman, “Double-stranded DNA homology produces a physical signature,” Proc. Natl. Acad. Sci., vol. 107, no. 28, pp. 12547–12552, Jul. 2010._
+##### _[3]	B. D. Kim, “Four-stranded DNA: an intermediate of homologous recombination and transposition,” Korean J Breed, no. 17, pp. 453–466, 1985._
+##### _[4]	P. A. W. Edwards, “A sequence-independent, four-stranded, double Watson-Crick DNA helix that could solve the unwinding problem of double helices,” J. Theor. Biol., vol. 70, no. 3, pp. 323–334, 6 1978._
+##### _[5]	S. McGavin, “Models of specifically paired like (homologous) nucleic acid structures,” J. Mol. Biol., vol. 55, no. 2, pp. 293–298, 28 1971._
 
 
