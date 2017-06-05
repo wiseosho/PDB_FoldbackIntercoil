@@ -7,7 +7,7 @@ To construct the coordinate information of Foldback Intercoil motif, the suggest
 
 
 ![alt text](fbi-process.png?raw=true "Reconstruction process of FoldbackIntercoil DNA Motif.")
-
+![alt text](FBI.gif?raw=true "FBI DNA formation.gif")
 ### **References**
 ##### _[1]	G. Biffi, D. Tannahill, J. McCafferty, and S. Balasubramanian, “Quantitative Visualization of DNA G-quadruplex Structures in Human Cells,” Nat. Chem., vol. 5, no. 3, pp. 182–186, Mar. 2013._
 ##### _[2]	X. Wang, X. Zhang, C. Mao, and N. C. Seeman, “Double-stranded DNA homology produces a physical signature,” Proc. Natl. Acad. Sci., vol. 107, no. 28, pp. 12547–12552, Jul. 2010._
